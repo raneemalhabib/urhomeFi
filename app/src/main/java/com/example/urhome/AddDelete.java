@@ -13,7 +13,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 public class AddDelete extends AppCompatActivity {
-
+//add
     Button ap_add , home;
     EditText ap_name, ap_price , ap_location ,ap_rooms;
     ListView lv_ap;

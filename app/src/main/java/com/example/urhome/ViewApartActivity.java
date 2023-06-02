@@ -8,7 +8,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.TextView;
-
+//view
 public class ViewApartActivity extends AppCompatActivity {
      DatabaseHelper databaseHelper =  new DatabaseHelper(this);
      Button rentButton;

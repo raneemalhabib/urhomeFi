@@ -13,7 +13,7 @@ import java.util.List;
 
 public class DatabaseHelper  extends SQLiteOpenHelper{
     public static final String databaseName = "SignLog.db";
-
+//db
     public static final String APART_TABLE = "Apart_Table";
     public static final String COLUMN_APART_NAME = "APART_NAME";
     public static final String COLUMN_APART_PRICE = "APART_PRICE";

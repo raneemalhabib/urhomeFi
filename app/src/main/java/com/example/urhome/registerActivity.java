@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.Toast;
 
 import com.example.urhome.databinding.ActivityRegisterBinding;
-
+//reg
 public class registerActivity extends AppCompatActivity {
 
 

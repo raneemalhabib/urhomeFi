@@ -11,7 +11,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.List;
-
+//adp
 public class ApartmentAdapter extends ArrayAdapter<apart> {
     List<apart> itemList;
     Activity context;

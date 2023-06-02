@@ -2,7 +2,7 @@ package com.example.urhome;
 
 import android.app.Application;
 import android.content.SharedPreferences;
-
+//app
 public class MyApplication extends Application {
 
     SharedPreferences mSharedPreferences;

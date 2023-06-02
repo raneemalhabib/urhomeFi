@@ -14,7 +14,7 @@ import android.widget.ListView;
 
 import java.io.Serializable;
 import java.util.List;
-
+//view apartment 
 public class ApartmentsListActivity extends AppCompatActivity {
     ApartmentAdapter arrayAdapter;
     List<apart> apartList;
